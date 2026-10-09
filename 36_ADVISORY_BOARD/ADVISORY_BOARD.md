@@ -1,25 +1,13 @@
-# Advisory Board — PYMMCORE
+# Advisory Board - PYMMCORE
 
 **Company:** Anticloud FZ LLE
-**Model:** PAX L5 Narrow L2 General 27B
 **Project:** PYMMCORE | Category: SCIENTIFIC_LAB
-**Upstream:** https://github.com/sksuzuki/pymmcore (Apache 2.0)
 
-## Overview
+## Status
 
-This document covers advisory board for the Anticloud integration of PYMMCORE.
-
-Python bindings for Micro-Manager microscope control
-
-## Anticloud Integration
-
-PAX L5 Narrow L2 General 27B is integrated into PYMMCORE to provide:
-- Local AI inference with zero cloud dependency
-- AIOSS tamper-evident audit chain
-- AES-256 encryption at rest
-- Single-binary deployment
+No advisors are appointed to this project at this time. Advisory appointments, when made, will be recorded here with names, roles, and start dates.
 
 ## Contact
 
-Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+Lois-Kleinner Alpasan - CEO & CTO, Anticloud FZ LLE
 lois@0-1.gg | 0-1.gg
